@@ -1,0 +1,1 @@
+Shell script to automate the installation of Apache web server, checking service status, service enabling and log archiving and uploading to S3 and keeping records of log files archived and uploaded to s3
